@@ -23,6 +23,9 @@ I‘m pursuing a Ph.D. in Computer Science at [Nanjing University](https://en.wi
 My research interests are General visual perception and human-computer and multimodal interaction system. 
 I am focusing on video understanding, egocentric vision perception and user-centric visual computing.
 
+Currently, I am working on frontier Vision-Language Models at NVIDIA, collaborating with Zhiding Yu, Guilin Liu, and other outstanding researchers on Project [Eagle](https://huggingface.co/collections/nvidia/eagle-2-6764ba887fa1ef387f7df067). 
+[Eagle2](https://arxiv.org/pdf/2501.14818) is contributing to NVIDIA Cosmos Nemotron and NVIDIA Isaac [GR00T N1](https://research.nvidia.com/publication/2025-03_nvidia-isaac-gr00t-n1-open-foundation-model-humanoid-robots).
+Eagle-2.5 is contributing to NVIDIA [Cosmos Reasoner1](https://github.com/nvidia-cosmos/cosmos-reason1) and NVIDIA [Nemotron-H](https://arxiv.org/abs/2504.03624).
 
 # 🔥 News
 
