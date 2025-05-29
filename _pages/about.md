@@ -29,7 +29,7 @@ Eagle-2.5 is contributing to NVIDIA [Cosmos Reasoner1](https://github.com/nvidia
 
 # 🔥 News
 
-- *2025-05-29*: Our paper [EgoExoLearn](http://openaccess.thecvf.com/content/CVPR2024/papers/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.pdf) has been selected as a deserved awardee of the [Egocentric Vision (EgoVis) 2023/2024 Distinguished Paper Award](https://egovis.github.io/awards/2023_2024/).
+<!-- - *2025-05-29*: Our paper [EgoExoLearn](http://openaccess.thecvf.com/content/CVPR2024/papers/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.pdf) has been selected as a deserved awardee of the [Egocentric Vision (EgoVis) 2023/2024 Distinguished Paper Award](https://egovis.github.io/awards/2023_2024/). -->
 
 - *2025-04-22*: We present [Eagle2.5](https://arxiv.org/abs/2504.15271), which boosts long-context visual-language capabilities, including long video understanding and multi-page document understanding.
 
