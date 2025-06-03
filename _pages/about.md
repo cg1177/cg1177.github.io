@@ -21,7 +21,9 @@ I‘m pursuing a Ph.D. in Computer Science at [Nanjing University](https://en.wi
 <!-- Now I'm working at [Shanghai AI Lab](https://www.shlab.org.cn/). -->
 
 My research interests are General visual perception and human-computer and multimodal interaction system. 
-I am focusing on video understanding, egocentric vision perception and user-centric visual computing.
+I am focusing on general video understanding, egocentric vision perception and multimodal computing.
+
+Previously, I worked on multimodal large model, **Intern** series, including [InternVideo](https://arxiv.org/abs/2212.03191), [InternVideo2](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_23), [InternVL](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.html) and [InternVid](https://arxiv.org/abs/2307.06942). I also led the adaptation of the base model to the egocentric video understanding downstream and won **14** championships in two Ego4D/EgoVis contests.
 
 Currently, I am working on frontier Vision-Language Models at NVIDIA, collaborating with Zhiding Yu, Guilin Liu, and other outstanding researchers on Project [Eagle](https://huggingface.co/collections/nvidia/eagle-2-6764ba887fa1ef387f7df067). 
 [Eagle2](https://arxiv.org/pdf/2501.14818) is contributing to NVIDIA Cosmos Nemotron and NVIDIA Isaac [GR00T N1](https://research.nvidia.com/publication/2025-03_nvidia-isaac-gr00t-n1-open-foundation-model-humanoid-robots).
