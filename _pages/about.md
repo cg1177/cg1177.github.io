@@ -31,7 +31,9 @@ Eagle-2.5 is contributing to NVIDIA [Cosmos Reasoner1](https://github.com/nvidia
 
 # 🔥 News
 
-<!-- - *2025-05-29*: Our paper [EgoExoLearn](http://openaccess.thecvf.com/content/CVPR2024/papers/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.pdf) has been selected as a deserved awardee of the [Egocentric Vision (EgoVis) 2023/2024 Distinguished Paper Award](https://egovis.github.io/awards/2023_2024/). -->
+- *2025-06-05*: We present a audio-visual counting benchmark, termed [CG-AV-Counting](https://huggingface.co/datasets/CG-Bench/CG-AV-Counting), and a strong reasoning-based baseline model [AV-Reasoner](https://github.com/AV-Reasoner/AV-Reasoner). The data and code are all released.
+
+- *2025-05-29*: Our paper [EgoExoLearn](http://openaccess.thecvf.com/content/CVPR2024/papers/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.pdf) has been selected as a deserved awardee of the [Egocentric Vision (EgoVis) 2023/2024 Distinguished Paper Award](https://egovis.github.io/awards/2023_2024/).
 
 - *2025-04-22*: We present [Eagle2.5](https://arxiv.org/abs/2504.15271), which boosts long-context visual-language capabilities, including long video understanding and multi-page document understanding.
 
@@ -236,6 +238,7 @@ Yi Wang, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zh
 </div>
 
 # 🎖 Honors and Awards
+  - *2025-05-29*: [Egocentric Vision (EgoVis) 2023/2024](https://egovis.github.io/awards/2023_2024/), CVPR2025, **Distinguished Paper Award**
   - *2024-07-01*: 1st EgoVis Challenge, ECCV2024, **7 Top-1 Rankings**
   - *2023-10-01*: 1st Perception Test Challenge, **Top-1 and Top-2 Rankings**
   - *2023-01-01*: WSDM Cup 2023 Toloka VQA Challenge, WSDM2023, **Top-1 Ranking**
