@@ -31,6 +31,8 @@ Eagle-2.5 is contributing to NVIDIA [Cosmos Reasoner1](https://github.com/nvidia
 
 # 🔥 News
 
+- *2025-09-18*: 3 Neurips papers are accepted. They are [Eagle2.5](https://arxiv.org/abs/2504.15271) for long-context VLM, [EgoExoBench](https://arxiv.org/abs/2507.18342) for egocentric-exocentric understanding benchmark,  and [EgoThinker]() for egocentric reasoning model and data.
+
 - *2025-06-05*: We present a audio-visual counting benchmark, termed [CG-AV-Counting](https://huggingface.co/datasets/CG-Bench/CG-AV-Counting), and a strong reasoning-based baseline model [AV-Reasoner](https://github.com/AV-Reasoner/AV-Reasoner). The data and code are all released.
 
 - *2025-05-29*: Our paper [EgoExoLearn](http://openaccess.thecvf.com/content/CVPR2024/papers/Huang_EgoExoLearn_A_Dataset_for_Bridging_Asynchronous_Ego-_and_Exo-centric_View_CVPR_2024_paper.pdf) has been selected as a deserved awardee of the [Egocentric Vision (EgoVis) 2023/2024 Distinguished Paper Award](https://egovis.github.io/awards/2023_2024/).
