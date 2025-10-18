@@ -220,7 +220,6 @@ Min Yang*, **Guo Chen***, Yin-Dong Zheng, Tong Lu, Limin Wang#
 - [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](https://arxiv.org/abs/2507.13353), Shihao Wang, **Guo Chen**, etal. **Arxiv**
 - [Token-Efficient Long Video Understanding for Multimodal LLMs](https://arxiv.org/pdf/2503.04130), Jindong Jiang, Xiuyu Li, Zhijian Liu, Muyang Li, **Guo Chen**, etal. **Arxiv**
 - [Video mamba suite: State space model as a versatile alternative for video understanding]([https://github.com](https://arxiv.org/pdf/2403.09626)), **Guo Chen**, Yifei Huang, Jilan Xu, etal. **Arxiv**
-- [An Egocentric Vision-Language Model based Portable Real-time Smart Assistant](https://arxiv.org/pdf/2503.04250), Yifei Huang, Jilan Xu, Baoqi Pei, Yuping He, **Guo Chen**, etal. **Arxiv**
 - [FAST: Faster Arbitrarily-Shaped Text Detector with Minimalist Kernel Representation](https://arxiv.org/abs/2111.02394), Zhe Chen, Jiahao Wang, Wenhai Wang, **Guo Chen**, etal. **Arxiv**
 
 # 📝 Projects
