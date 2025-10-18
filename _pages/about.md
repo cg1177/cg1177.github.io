@@ -91,6 +91,18 @@ Eagle-2.5 is contributing to NVIDIA [Cosmos Reasoner1](https://github.com/nvidia
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/eagle2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Eagle 2.5: Boosting long-context post-training for frontier vision-language models](https://arxiv.org/abs/2504.15271)
+
+**Guo Chen**, Zhiqi Li, Shihao Wang, Jindong Jiang, Yicheng Liu, Lidong Lu, De-An Huang, Wonmin Byeon, Matthieu Le, Tuomas Rintamaki, Tyler Poon, Max Ehrlich, Tuomas Rintamaki, Tyler Poon, Tong Lu, Limin Wang, Bryan Catanzaro, Jan Kautz, Andrew Tao, Zhiding Yu, Guilin Liu.
+
+[**PDF**](https://arxiv.org/abs/2504.15271) [**code**](https://github.com/NVlabs/EAGLE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper introduces Eagle 2.5, a generalist long-context VLM for videos and high-res images, combining Automatic Degrade Sampling, Image Area Preservation, and the Eagle-Video-110K dataset to reach 72.4% on Video-MME (512 frames), rivaling much larger models.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/eagle2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -188,6 +200,9 @@ Min Yang*, **Guo Chen***, Yin-Dong Zheng, Tong Lu, Limin Wang#
 </div>
 
 
+- [Egoexobench: A benchmark for first-and third-person view video understanding in mllms](https://arxiv.org/abs/2507.18342), Yuping He, Yifei Huang, **Guo Chen**, etal. **NIPS 2025**
+- [Vinci: A Real-time Smart Assistant Based on Egocentric Vision-language Model for Portable Devices](https://dl.acm.org/doi/10.1145/3749513), Yifei Huang, Jilan Xu, Baoqi Pei, Lijin Yang, Mingfang Zhang, Yuping He, **Guo Chen**, etal. **IMWUT 2025**
+- [Egocentric Object-Interaction Anticipation with Retentive and Predictive Learning](https://www.ijcai.org/proceedings/2025/88), **Guo Chen**, Yifei Huang, etal. **IJCAI 2025**
 - [Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning](https://arxiv.org/pdf/2503.00986), Baoqi Pei, Yifei Huang, Jilan Xu, **Guo Chen**, etal. **ICLR 2025**
 - [X-Gen: Ego-centric Video Prediction by Watching Exo-centric Videos](https://openreview.net/forum?id=8J2DrrWDKE), Jilan Xu, Yifei Huang, Baoqi Pei, Junlin Hou, Qingqiu Li, **Guo Chen**, etal. **ICLR 2025**
 - [Avsegformer: Audio-visual segmentation with transformer]([https://github.com](https://ojs.aaai.org/index.php/AAAI/article/view/29104/30087)), Shengyi Gao, Zhe Chen, **Guo Chen**, etal. **AAAI 2024**
@@ -197,7 +212,12 @@ Min Yang*, **Guo Chen***, Yin-Dong Zheng, Tong Lu, Limin Wang#
 - [Elan: Enhancing temporal action detection with location awareness]([https://github.com](https://ieeexplore.ieee.org/abstract/document/10219585/)), **Guo Chen**, Yin-Dong Zheng, etal. **ICME 2023**
 - [Mrsn: Multi-relation support network for video action detection]([https://github.com](https://ieeexplore.ieee.org/abstract/document/10219718)), Yin-Dong Zheng, **Guo Chen**, etal. **ICME 2023**
 - [Matching compound prototypes for few-shot action recognition](https://link.springer.com/article/10.1007/s11263-024-02017-7), Yifei Huang, Lijin Yang, **Guo Chen**, etal. **IJCV**
+- [Guiding Audio-Visual Question Answering with Collective Question Reasoning](https://link.springer.com/article/10.1007/s11263-025-02510-7), Baoqi Pei, Yifei Huang, **Guo Chen**, etal. **IJCV**
+- [Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision](https://arxiv.org/abs/2506.06253), Yuping He, Yifei Huang, **Guo Chen**, etal. **Arxiv**
+- [Feature matters: Revisiting channel attention for Temporal Action Detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320325005060), **Guo Chen**, etal. **PR**
 - [Videollm: Modeling video sequence with large language models](https://arxiv.org/pdf/2305.13292), **Guo Chen**, Yin-Dong Zheng, Jiahao Wang, etal. **Arxiv**
+- [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs](https://arxiv.org/abs/2506.05328), Lidong Lu, **Guo Chen**, etal. **Arxiv**
+- [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](https://arxiv.org/abs/2507.13353), Shihao Wang, **Guo Chen**, etal. **Arxiv**
 - [Token-Efficient Long Video Understanding for Multimodal LLMs](https://arxiv.org/pdf/2503.04130), Jindong Jiang, Xiuyu Li, Zhijian Liu, Muyang Li, **Guo Chen**, etal. **Arxiv**
 - [Video mamba suite: State space model as a versatile alternative for video understanding]([https://github.com](https://arxiv.org/pdf/2403.09626)), **Guo Chen**, Yifei Huang, Jilan Xu, etal. **Arxiv**
 - [An Egocentric Vision-Language Model based Portable Real-time Smart Assistant](https://arxiv.org/pdf/2503.04250), Yifei Huang, Jilan Xu, Baoqi Pei, Yuping He, **Guo Chen**, etal. **Arxiv**
