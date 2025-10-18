@@ -251,6 +251,12 @@ Yi Wang, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zh
   - *2017-10-01*: CCPC Regional Contest, **Bronze Medal**
   - *2017-10-15*: ACM-ICPC Asia Regional Contest, **Silver Medal**
 
+# 🔍 Academic Services
+
+Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI
+
+Journal Reviewer: IJCV, CVIU, PR
+
 # 📖 Educations
 - *20.09 - present*, Nanjing University, Nanjing, China
 - *15.09 - 19.06*, University of South China, Hengyang, China
