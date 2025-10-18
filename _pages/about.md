@@ -208,13 +208,13 @@ Min Yang*, **Guo Chen***, Yin-Dong Zheng, Tong Lu, Limin Wang#
 - [Avsegformer: Audio-visual segmentation with transformer]([https://github.com](https://ojs.aaai.org/index.php/AAAI/article/view/29104/30087)), Shengyi Gao, Zhe Chen, **Guo Chen**, etal. **AAAI 2024**
 - [Mvbench: A comprehensive multi-modal video understanding benchmark](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MVBench_A_Comprehensive_Multi-modal_Video_Understanding_Benchmark_CVPR_2024_paper.pdf), Kunchang Li, Yali Wang, Yinan He, Yizhuo Li, Yi Wang, Yi Liu, Zun Wang, Jilan Xu, **Guo Chen**, etal. **CVPR 2024**
 - [Retrieval-augmented egocentric video captioning](http://openaccess.thecvf.com/content/CVPR2024/papers/Xu_Retrieval-Augmented_Egocentric_Video_Captioning_CVPR_2024_paper.pdf), Jilan Xu, Yifei Huang, Junlin Hou, **Guo Chen**, etal. **CVPR 2024**
+- [Guiding Audio-Visual Question Answering with Collective Question Reasoning](https://link.springer.com/article/10.1007/s11263-025-02510-7), Baoqi Pei, Yifei Huang, **Guo Chen**, etal. **IJCV**
 - [Internvid: A large-scale video-text dataset for multimodal understanding and generation](https://arxiv.org/pdf/2307.06942), Yi Wang, Yinan He, Yizhuo Li, Kunchang Li, Jiashuo Yu, Xin Ma, Xinhao Li, **Guo Chen**, etal. **ICLR 2023**
 - [Elan: Enhancing temporal action detection with location awareness]([https://github.com](https://ieeexplore.ieee.org/abstract/document/10219585/)), **Guo Chen**, Yin-Dong Zheng, etal. **ICME 2023**
 - [Mrsn: Multi-relation support network for video action detection]([https://github.com](https://ieeexplore.ieee.org/abstract/document/10219718)), Yin-Dong Zheng, **Guo Chen**, etal. **ICME 2023**
 - [Matching compound prototypes for few-shot action recognition](https://link.springer.com/article/10.1007/s11263-024-02017-7), Yifei Huang, Lijin Yang, **Guo Chen**, etal. **IJCV**
-- [Guiding Audio-Visual Question Answering with Collective Question Reasoning](https://link.springer.com/article/10.1007/s11263-025-02510-7), Baoqi Pei, Yifei Huang, **Guo Chen**, etal. **IJCV**
-- [Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision](https://arxiv.org/abs/2506.06253), Yuping He, Yifei Huang, **Guo Chen**, etal. **Arxiv**
 - [Feature matters: Revisiting channel attention for Temporal Action Detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320325005060), **Guo Chen**, etal. **PR**
+- [Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision](https://arxiv.org/abs/2506.06253), Yuping He, Yifei Huang, **Guo Chen**, etal. **Arxiv**
 - [Videollm: Modeling video sequence with large language models](https://arxiv.org/pdf/2305.13292), **Guo Chen**, Yin-Dong Zheng, Jiahao Wang, etal. **Arxiv**
 - [AV-Reasoner: Improving and Benchmarking Clue-Grounded Audio-Visual Counting for MLLMs](https://arxiv.org/abs/2506.05328), Lidong Lu, **Guo Chen**, etal. **Arxiv**
 - [VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding](https://arxiv.org/abs/2507.13353), Shihao Wang, **Guo Chen**, etal. **Arxiv**
