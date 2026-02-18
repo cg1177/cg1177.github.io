@@ -21,7 +21,7 @@ I‘m pursuing a Ph.D. in Computer Science at [Nanjing University](https://en.wi
 <!-- Now I'm working at [Shanghai AI Lab](https://www.shlab.org.cn/). -->
 
 My research interests are General visual perception and human-computer and multimodal interaction system. 
-I am focusing on general video understanding, egocentric vision perception and multimodal computing.
+I am focusing on multimodal computing, general video understanding, and egocentric vision perception.
 
 Previously, I worked on multimodal large model, **Intern** series, including [InternVideo](https://arxiv.org/abs/2212.03191), [InternVideo2](https://link.springer.com/chapter/10.1007/978-3-031-73013-9_23), [InternVL](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_InternVL_Scaling_up_Vision_Foundation_Models_and_Aligning_for_Generic_CVPR_2024_paper.html) and [InternVid](https://arxiv.org/abs/2307.06942). I also led the adaptation of the base model to the egocentric video understanding downstream and won **14** championships in two Ego4D/EgoVis contests.
 
@@ -30,6 +30,8 @@ Currently, I am working on frontier Vision-Language Models at NVIDIA, collaborat
 Eagle-2.5 is contributing to NVIDIA [Cosmos Reasoner1](https://github.com/nvidia-cosmos/cosmos-reason1) and NVIDIA [Nemotron-H](https://arxiv.org/abs/2504.03624).
 
 # 🔥 News
+
+- *2026-02-01*: 2 IJCV papers are accepted. They are [Video-Mamba-Suite](https://link.springer.com/article/10.1007/s11263-025-02597-y), and [EgoExoSuevey](https://link.springer.com/article/10.1007/s11263-025-02608-y).
 
 - *2025-09-18*: 3 Neurips papers are accepted. They are [Eagle2.5](https://arxiv.org/abs/2504.15271) for long-context VLM, [EgoExoBench](https://arxiv.org/abs/2507.18342) for egocentric-exocentric understanding benchmark,  and [EgoThinker]() for egocentric reasoning model and data.
 
