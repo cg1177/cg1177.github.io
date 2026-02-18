@@ -263,6 +263,7 @@ Yi Wang, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zh
 </div>
 
 # 🎖 Honors and Awards
+  - *2025-11-13*: Nanjing University, **PhD National Scholarship**
   - *2025-05-29*: [Egocentric Vision (EgoVis) 2023/2024](https://egovis.github.io/awards/2023_2024/), CVPR2025, **Distinguished Paper Award**
   - *2024-07-01*: 1st EgoVis Challenge, ECCV2024, **7 Top-1 Rankings**
   - *2023-10-01*: 1st Perception Test Challenge, **Top-1 and Top-2 Rankings**
@@ -274,9 +275,9 @@ Yi Wang, Kunchang Li, Yizhuo Li, Yinan He, Bingkun Huang, Zhiyu Zhao, Hongjie Zh
 
 # 🔍 Academic Services
 
-Conference Reviewer: NeurIPS, ICLR, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI
+Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, AAAI, ACM MM, IJCAI
 
-Journal Reviewer: IJCV, CVIU, PR
+Journal Reviewer: TPAMI, IJCV, CVIU, PR
 
 # 📖 Educations
 - *20.09 - present*, Nanjing University, Nanjing, China
